@@ -24,10 +24,23 @@
         "../node_modules/font-awesome/css/font-awesome.min.css"
       ],
       "scripts": [
-        "../node_modules/jquery/dist/jquery.min.js",
+        "lib/jquery/jquery.min.js",
+        "lib/jquery/jquery-migrate.min.js",
         "../node_modules/popper.js/dist/umd/popper.min.js",
         "../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+        "lib/easing/easing.min.js",
+        "lib/lockfixed/lockfixed.min.js",
+        "lib/parallax/parallax.js",
+        "lib/stellar/stellar.min.js",
+        "lib/stickyjs/sticky.js",
+        "lib/superfish/hoverIntent.js",
+        "lib/superfish/superfish.min.js",
+        "lib/tether/js/tether.min.js",
+        "lib/waypoints/waypoints.min.js",
+        "lib/counterup/counterup.min.js",
         "assets/custom.js"
+
+
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {
